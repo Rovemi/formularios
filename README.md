@@ -5,3 +5,5 @@ el fine de este punto de venta es ver que podemos hacer en una pagina web y las 
 
 en la base de datos agregamos tablas  donde agrupamos alos usuarios que nos quieren comprar mercancia 
 si abren ese archivo hay estan todas las ventas y usuarios del local 
+
+Para poder ver nuestro proyecto primero se debe importar la base de datos ya una vez dentro podremos abirir el archivo
