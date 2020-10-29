@@ -1,0 +1,13 @@
+user
+admin
+pasword
+admin
+
+user mysql
+root
+pasword mysql
+''
+puerto mysql
+80
+
+si tienes una diferente configuracion de mysql cambia todas las conexiones de la base de datos
